@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @senshizera
-- 👀 I’m interested in programing languages
-- 🌱 I’m currently learning PHP
+- 👋 Hi, I’m @adrianosilveira13
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning NodeJs, TypeScript, ReactJS, etc....
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me SOON!
 
