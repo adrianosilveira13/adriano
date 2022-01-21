@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @adrianosilveira13
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning NodeJs, TypeScript, ReactJS, etc....
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me SOON!
 
 <!---
 senshizera/senshizera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
